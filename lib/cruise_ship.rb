@@ -14,4 +14,5 @@ def select_winner(passengers)
       break
     end
   end
+  winner
 end
